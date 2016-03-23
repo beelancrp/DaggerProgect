@@ -1,7 +1,9 @@
-package com.beelancrp.daggerproject;
+package com.beelancrp.daggerproject.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.beelancrp.daggerproject.R;
 
 public class MainActivity extends AppCompatActivity {
 
